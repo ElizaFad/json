@@ -1,0 +1,92 @@
+{
+	"book": [
+		{
+			"id": 1,
+			"img": "./img/books/kafka.jpg",
+			"title": "Кафка на пляже",
+			"author": "Харуки Мураками",
+			"update": "20020317",
+			"country": "japan",
+			"language": "ru",
+			"category": "artistic",
+			"subcategory": "prose",
+			"text": "<p>Я заметил, что на груди белой майки налипло что-то черное, по форме — вроде большой бабочки с раскрытыми крыльями… В мерцающем свете люминесцентной лампы стало понятно: это темно-красное кровавое пятно. Кровь свежая, еще не засохла. Довольно много. Я наклонил голову и понюхал пятно. Никакого запаха. Брызги крови — совсем немного — оказались и на темно-синей рубашке, где она была не так заметна. А на белой майке — такая яркая, свежая…</p><p>Кошмарное странствие по лабиринтам души современного Эдипа — в романе Харуки Мураками 'Кафка на пляже'.</p>",
+			"search": {
+				"title": [
+					"Кафка на пляже",
+					"Kafka on the Shore"
+				],
+				"author": [
+					"Харуки Мураками",
+					"Haruki Murakami"
+				]
+			}
+		},
+		{
+			"id": 2,
+			"img": "./img/books/bird.jpg",
+			"title": "Хроники заводной птицы",
+			"author": "Харуки Мураками",
+			"update": "19951005",
+			"country": "japan",
+			"language": "ru",
+			"category": "artistic",
+			"subcategory": "prose",
+			"text": "<p>Тору Окада — тридцатилетний мужчина, живущий в своем тихом мире: с любимой женой, котом, названным в шутку именем шурина, в небольшом домике в хорошем районе. Уволился с работы, но ничего страшного он в этом не видел. А вот судьба решила сыграть с ним. Первым исчез кот, начала постоянно звонить странная женщина, потом ушла жена. Одно за другим стали сбываться старые пророчества, приносящие в его жизнь множество вопросов и ни одного ответа. Но в конце — загадки сложились в замысловатый узор…</p><p>«Хроники Заводной Птицы» — масштабное произведение, — в нем письма, мистические сны, воспоминания, журнальные статьи, закодированные файлы — цельное полотно, сотканное из невероятных событий, тонкой иронии и неподражаемой интонации Харуки Мураками.</p>",
+			"search": {
+				"title": [
+					"Хроники заводной птицы",
+					"The Wind-Up Bird Chronicle"
+				],
+				"author": [
+					"Харуки Мураками",
+					"Haruki Murakami"
+				]
+			}
+		},
+		{
+			"id": 3,
+			"img": "./img/books/cat.jpg",
+			"title": "Ваш покорный слуга кот",
+			"author": "Сосэки Нацумэ",
+			"update": "19060317",
+			"country": "japan",
+			"language": "jp",
+			"category": "artistic",
+			"subcategory": "prose",
+			"text": "<p>В книге представлен неадаптированный текст на языке оригинала.</p><p>Нацумэ Сосэки является одним из столпов японской литературы. Перед вами его дебютное произведение, сатирический роман «Ваш покорный слуга кот». Повествование ведется от имени кота, живущего в доме учителя английского языка Кот слушает истории гостей, которые приходят к учителю, подмечает слова и поступки своих хозяев, дает им оценку и,разумеется, считает себя созданием более совершенным чем человек.</p>",
+			"search": {
+				"title": [
+					"Ваш покорный слуга кот",
+					"I Am a Cat"
+				],
+				"author": [
+					"Сосэки Нацумэ",
+					"Natsume Soseki"
+				]
+			}
+		},
+		{
+			"id": 4,
+			"img": "./img/books/potterEng.jpg",
+			"title": "Harry Potter and the Philosopher’s Stone",
+			"author": "J. K. Rowling",
+			"update": "19971217",
+			"country": "england",
+			"language": "en",
+			"category": "artistic",
+			"subcategory": "fantasy",
+			"text": "Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harrys eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry.</p>",
+			"search": {
+				"title": [
+					"Гарри Поттер и Философский Камен",
+					"Harry Potter and the Philosopher’s Stone"
+				],
+				"author": [
+					"Дж. К. Роулинг",
+					"J. K. Rowling"
+				]
+			}
+		}
+	]
+}
